@@ -29,7 +29,7 @@ SM2_ExamenUnidad3/
 ## Evidencias
 
 ### 1. Estructura de Carpetas
-![Estructura de carpetas](/screenshots/estructura.png)
+![Estructura de carpetas](screenshots/estructura.png)
 
 *Carpeta .github/workflows/ y test/ creadas correctamente*
 
